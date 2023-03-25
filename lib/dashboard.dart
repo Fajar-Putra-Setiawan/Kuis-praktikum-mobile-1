@@ -55,8 +55,8 @@ class HalamanUtama extends StatelessWidget {
                         Text(
                           place.name,
                           style: TextStyle(
-                            fontSize: 24, fontStyle: FontStyle.italic),
-                            maxLines: 1,
+                            fontSize: 20, fontStyle: FontStyle.italic),
+                            maxLines: 2,
                         ),
                         SizedBox(
                           height: 10,
